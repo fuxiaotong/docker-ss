@@ -36,3 +36,4 @@ select PAC mode in this client to set intelligent agent.
 
 ## Attention
 if docker is killed, you can input ```service docker start``` to wake docker daemon.
+:blush:
